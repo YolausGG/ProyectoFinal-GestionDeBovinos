@@ -1,6 +1,6 @@
-Para que la aplicacion funcione correctamente se debe tener MySQL Server y el gestor MySQL Workbench y el y JDK 16 de Java, a continuación dejo unos links con una guía.
+Para que la aplicacion funcione correctamente se debe tener MySQL Server, el gestor MySQL Workbench y el JDK 16 de Java, a continuación dejo unos links con una guía.
 https://codigosql.top/mysql/instalar-mysql-server-y-mysql-workbench-en-windows-10/
 https://www.oracle.com/java/technologies/javase/jdk16-archive-downloads.html
 
-En el blog de notas "TablasDataBaseGestionDeBovinos" hay Scripts para crear un Usuario en MySQL Workbench que debe ser el creado ahí y el Usuario para la aplicación, que los datos de este son ingresados por el Cliente antes de ejecutar los Scripts.
+En el blog de notas "TablasDataBaseGestionDeBovinos.txt" hay Scripts para crear un Usuario en MySQL Workbench que debe ser el creado ahí y el Usuario para la aplicación, que los datos de este son ingresados por el Cliente antes de ejecutar los Scripts.
 
